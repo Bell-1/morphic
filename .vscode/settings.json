@@ -4,5 +4,8 @@
   "cSpell.words": ["openai", "Tavily"],
   "editor.codeActionsOnSave": {
     "source.organizeImports": "always"
+  },
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
   }
 }
